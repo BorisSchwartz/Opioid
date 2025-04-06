@@ -6,6 +6,7 @@ Long-term opioid use in survivors of childhood cancer: Results from the French C
 Free space required on your computer : 30 Go. Note: Some warnings may appear in the log, but this has no effect on the program. 
 Note: results appear as sas tables and/or rtf files (Word format). These are crude internal working documents. 
 Result tables in the article have been formatted then from these documents. Run time: 1000 seconds.
+Note: An anonymized demo dataset can be supplied on request from the author.
 Note: comments in code appears in French (sometimes in English) as this is the native language of Boris Schwartz.
 
 Save sankey scripts (rawtosankey.sas, sankey.sas and sankeybarchart.sas in your folder before execute program).
