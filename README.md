@@ -3,18 +3,18 @@ SAS program created by Boris Schwartz, CESP-INSERM-U1018 Radiation Epidemiology 
 
 Long-term opioid use in survivors of childhood cancer: Results from the French Childhood Cancer Survivor Study
 
-Free space required on your computer : 30 Go. Note: Some warnings may appear in the log, but this has no effect on the program. N
-ote: results appear as sas tables and/or rtf files (Word format). These are crude internal working documents. 
-Result tables in the article have been formatted then from these documents. Demo datasets have been anonymized and shorten compared to original data. Run time for demo: 379 seconds
+Free space required on your computer : 30 Go. Note: Some warnings may appear in the log, but this has no effect on the program. 
+Note: results appear as sas tables and/or rtf files (Word format). These are crude internal working documents. 
+Result tables in the article have been formatted then from these documents. Demo datasets have been anonymized and shortened compared to original data. Run time for demo: 379 seconds
 
 Save sankey scripts (rawtosankey.sas, sankey.sas and sankeybarchart.sas in your folder before execute program).
 Download and find information on Proc TRAJ at: https://www.andrew.cmu.edu/user/bjones/
 
-Global program with:
+Global program (OPIOID STUDY - BS.SAS) with:
 
-1.Set up (change folders and library according to your computer to execute the following program)
+1. Set up (change folders and library according to your computer to execute the following program)
 
-2.Frequently used macros
+2. Frequently used macros
 
 3. Work databases: 2 files, the first with one line per delivery, the second with one line per patient
 
